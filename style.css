@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+    font-family: verdana;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    height: 150px;
+    width: 100%;
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    display: grid;
+    grid-template-columns: 25% auto;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
